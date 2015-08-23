@@ -1,3 +1,6 @@
 *.swp
 *.p12
+*.pdf
+*.crt
+*.key
 /node_modules
